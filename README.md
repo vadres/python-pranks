@@ -15,5 +15,5 @@ Install the packages via pip
 Run the Python file with the desired parameters using the command
 
 ```bash
- python crop_image.py /path/to/image.jpg 100 --padding 10
+ python crop_image.py /path/to/image.jpg 100 100 --padding 10
 ```
